@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "title": "Red Printed T-Shirt",
+  "price": 50.0,
+  "imageArray": [
+    { "imageId": 1, "image": "../images/gallery-1.jpg" },
+    { "imageId": 2, "image": "../images/gallery-2.jpg" },
+    { "imageId": 3, "image": "../images/gallery-3.jpg" },
+    { "imageId": 4, "image": "../images/gallery-4.jpg" }
+  ],
+  "desc": "Hello World",
+  "mainImage": "https://images.unsplash.com/photo-1503803548695-c2a7b4a5b875?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+}
